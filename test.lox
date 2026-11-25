@@ -1,0 +1,2 @@
+var language = "lox";
+print 123 + 45.67;
