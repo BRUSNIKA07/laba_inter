@@ -4,6 +4,7 @@
 *.out
 *.app
 a.out
+out/*
 *.dll
 *.so
 *.dylib
